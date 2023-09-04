@@ -1,5 +1,4 @@
 
-![MasterHead](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hi 👋, I'm Yassin</h1>
 <h3 align="center">A passionate developer Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
@@ -24,3 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin-ck&" alt="Yassin-ck" /></p>
 
 
+![MasterHead](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
