@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Yassin</h1>
 <h3 align="center">A passionate developer Student from India</h3>
@@ -22,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yassin-ck&show_icons=true&locale=en" alt="Yassin-ck" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin-ck&" alt="Yassin-ck" /></p>
+
+![MasterHead](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
+
