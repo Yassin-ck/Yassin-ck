@@ -23,4 +23,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin-ck&" alt="Yassin-ck" /></p>
 
 
-![MasterHead](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
