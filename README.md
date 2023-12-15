@@ -121,10 +121,10 @@
 </table>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassin-ck&show_icons=true&locale=en&layout=compact" alt="Yassin-ck" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassin-ck&show_icons=true&locale=en&layout=compact&theme=dark" alt="Yassin-ck" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yassin-ck&show_icons=true&locale=en" alt="Yassin-ck" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yassin-ck&show_icons=true&locale=en&theme=dark" alt="Yassin-ck" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin-ck&" alt="Yassin-ck" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin-ck&theme=dark" alt="Yassin-ck" /></p>
 
 
